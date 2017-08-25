@@ -1,6 +1,6 @@
 ## Synopsis
 
-This is the location of prdesignwork's codes work.
+This is the location of prdesignwork's code work.
 
 ## Motivation
 
