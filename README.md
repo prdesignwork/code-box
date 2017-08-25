@@ -1,6 +1,6 @@
 ## Synopsis
 
-This is the location of all of prdesignwork's codes are going to be stored.
+This is the location of prdesignwork's codes work.
 
 ## Motivation
 
